@@ -1,4 +1,7 @@
-___12/4/24 STABILITY FIX!!! Windows 11 issues have been resolved! Currently functional on all versions of Windows 10 and 11!!___</br>
+___12/4/24 STABILITY FIX!!! Windows 11 issues have been resolved! Currently functional on all versions of Windows 10 and 11!!___</br><!---
+Javier111228/Javier111228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 ___11/23/24 UPDATE: New Version of the loader has been released! This update fixes the Ordinal 345 missing error that some people were experiencing on launch!___</br>
 ___11/13/24 UPDATED SPOOFER!!! NO LONGER WILL YOU HAVE TO VERIFY A PHONE NUMBER TO PLAY!! THIS UPDATE BYPASSES THE PHONE VERIFICATION WHEN YOU LOG INTO A NEW ACCOUNT ON STEAM!!___</br>
 ___HUGE UPDATE!!! ANTI AIM ADDED!!!___</br>
